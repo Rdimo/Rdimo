@@ -1,4 +1,4 @@
-<h1 align="center">Rdimo here at your service Rdimo/iLikeBouncyBalls</h1>
+<h1 align="center">Info about me Rdimo/iLikeBouncyBalls</h1>
 <h3 align="center">A developer developing all sorts of things from hacks to bots or something else that I just find fun</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdimo&label=Profile%20views&color=0e75b6&style=flat" alt="rdimo" /> </p>
