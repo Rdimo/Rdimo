@@ -18,6 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdimo&show_icons=true&chartreuse-dark" alt="rdimo" /></p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=rdimo&show_icons=true&gotham)
+![github stats](https://github-readme-stats.vercel.app/api?username=rdimo&show_icons=true&theme=gotham)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&show_icons=true&locale=en&layout=compact" alt="rdimo" /></p>
