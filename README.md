@@ -11,11 +11,6 @@
 
 - 📚 Fun fact **I love anime and coding**
 
-<h3 align="left">Join my discord server:</h3>
-<p align="left">
-<a href="https://discord.gg/zATCBVGRef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="Discord Server" height="30" width="40" /></a>
-</p>
-
 ![alt text](https://img.icons8.com/nolan/64/discord-new-logo.png) [Discord server](https://discord.gg/zATCBVGRef)
 
 <h3 align="left">Languages I know/ have experience in:</h3>
