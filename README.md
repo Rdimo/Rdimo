@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdimo&label=Profile%20views&color=0e75b6&style=flat" alt="rdimo" /> </p>
 
-- ✅ Have some open sources of stuff if you want to check them out [Simple-Discord-Music-Bot](https://github.com/Rdimo/Simple-Discord-Music-Bot)
+- ✅ Latest open source project [Simple-Discord-Music-Bot](https://github.com/Rdimo/Simple-Discord-Music-Bot)
 
 - 💻 All of my projects are available at my [github repository page](https://github.com/Rdimo?tab=repositories) obviously
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/zATCBVGRef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="zATCBVGRef" height="30" width="40" /></a>
+<a href="https://discord.gg/zATCBVGRef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="Discord Server" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
