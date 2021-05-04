@@ -19,4 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdimo&show_icons=true&theme=chartreuse-dark" alt="rdimo" /></p>  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&show_icons=true&locale=en&layout=compact" alt="rdimo" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdimo&layout=compact)](https://github.com/rdimo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdimo&layout=demo)](https://github.com/rdimo/github-readme-stats)
