@@ -5,9 +5,7 @@
 
 - ✅ Latest open source project [Simple-Discord-Music-Bot](https://github.com/Rdimo/Simple-Discord-Music-Bot)
 
-- 💻 All of my projects are available at my [github repository page](https://github.com/Rdimo?tab=repositories) obviously
-
-- 📧 How to reach me **iLikeBouncyBalls#6969 on discord**
+- 📧 if you need help or want to reach me add **iLikeBouncyBalls#6969 on discord**
 
 - 📖 Know about my experiences [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
