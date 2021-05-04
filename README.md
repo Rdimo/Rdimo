@@ -11,7 +11,7 @@
 
 - 📚 Fun fact **I love anime and coding**
 
-![alt text](https://img.icons8.com/nolan/50/discord-new-logo.png) [Discord server](https://discord.gg/zATCBVGRef)
+![alt text](https://img.icons8.com/nolan/35/discord-new-logo.png) [Discord server](https://discord.gg/zATCBVGRef)
 
 [Discord server](https://discord.gg/zATCBVGRef)
 
