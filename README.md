@@ -9,8 +9,6 @@
 
 - 📖 Know about my experiences [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- 📚 Fun fact **I love anime and coding**
-
 ![alt text](https://img.icons8.com/nolan/35/discord-new-logo.png) [Discord server](https://discord.gg/zATCBVGRef)
 
 <h3 align="left">Languages I know/have experience in:</h3>
