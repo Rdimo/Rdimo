@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdimo&label=Profile%20views&color=0e75b6&style=flat" alt="rdimo" /> </p>
 
-- ✅ Latest open source project [Simple-Discord-Music-Bot](https://github.com/Rdimo/Simple-Discord-Music-Bot)
+- ✅ Latest open source project [Twitch-Token-Gen](https://github.com/Rdimo/Twitch-Token-Gen)
 
 - 📧 if you need help or want to reach me add **iLikeBouncyBalls#6969 on discord**
 
