@@ -1,7 +1,7 @@
 <a href="https://rdimo.github.io/CheatAway/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/857962898718720030/Rdimos_Github.png" alt="Rdimo's Github"/></a>
   
 ```js
-npm install coding-skills.
+npm install a-life.
 ```
 
 <img src="https://komarev.com/ghpvc/?username=rdimo&label=Profile%20views&color=008042&style=flat" alt="Profile Views"></a>
