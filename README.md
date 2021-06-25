@@ -4,7 +4,7 @@
 npm install coding-skills.
 ```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdimo&label=Profile%20views&color=0e75b6&style=flat" alt="rdimo" /> </p>
+<img src="https://komarev.com/ghpvc/?username=rdimo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></a>
 <a href="https://rdimo.github.io/CheatAway/" target="_blank"> <img src="https://discordapp.com/api/guilds/850313477121507338/widget.png?style=shield" alt="shield.png"></a>
 
 - ✅ Latest open source project [Instagram-Mass-report](https://github.com/Rdimo/Instagram-Mass-report)
