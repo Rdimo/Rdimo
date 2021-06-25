@@ -4,9 +4,9 @@
 npm install coding-skills.
 ```
 
-<img src="https://komarev.com/ghpvc/?username=rdimo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=0e75b6&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Rdimo" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=0e75b6&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Rdimo" alt="Profile Forks"></a>
+<img src="https://komarev.com/ghpvc/?username=rdimo&label=Profile%20views&color=008042&style=flat" alt="Profile Views"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Rdimo" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Rdimo" alt="Profile Forks"></a>
 <a href="https://rdimo.github.io/CheatAway/" target="_blank"> <img src="https://discordapp.com/api/guilds/850313477121507338/widget.png?style=shield" alt="shield.png"></a>
 
 - ✅ Latest open source project [Instagram-Mass-report](https://github.com/Rdimo/Instagram-Mass-report)
