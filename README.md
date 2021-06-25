@@ -1,4 +1,4 @@
-<a href="https://rdimo.github.io/CheatAway/" target="_blank"> <img src="https://imgur.com/athqo1r" alt="Rdimo's Github" width="40" height="40"/>
+<a href="https://rdimo.github.io/CheatAway/" target="_blank"> <img src="https://imgur.com/Cl6moNs" alt="Rdimo's Github" width="40" height="40"/>
 ```js
 npm install coding-skills.
 ```
