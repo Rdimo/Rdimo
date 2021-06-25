@@ -1,5 +1,4 @@
-<p align="left"> <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> </p>
-  <blockquote class="imgur-embed-pub" lang="en" data-id="Cl6moNs"><a href="https://imgur.com/Cl6moNs">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="https://rdimo.github.io/CheatAway/" target="_blank"> <img src="https://img.icons8.com/nolan/35/discord-new-logo.png" alt="Rdimo's Github"/>
   
 ```js
 npm install coding-skills.
