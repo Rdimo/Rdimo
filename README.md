@@ -1,5 +1,7 @@
-<h2 align="center">Info about me Rdimo/iLikeBouncyBalls</h2>
-<h3 align="center">A coder making all sorts of things that I just find fun</h3>
+![welcome](https://imgur.com/athqo1r)
+```js
+npm install coding-skills.
+```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdimo&label=Profile%20views&color=0e75b6&style=flat" alt="rdimo" /> </p>
 
