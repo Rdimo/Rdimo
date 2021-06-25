@@ -1,4 +1,4 @@
-![welcome](https://imgur.com/athqo1r)
+</a><img align="right" href="https://rdimo.github.io/CheatAway/" target="_blank"> src="https://imgur.com/athqo1r" alt="Rdimo's Github" /> </p>
 ```js
 npm install coding-skills.
 ```
