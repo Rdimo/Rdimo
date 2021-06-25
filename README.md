@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://imgur.com/Cl6moNs" alt="Github" /> </p>
+<p align="left"> <img src="https://imgur.com/Cl6moNs" alt="Rdimo's Github" /> </p>
   
 ```js
 npm install coding-skills.
