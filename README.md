@@ -1,7 +1,7 @@
 <a href="https://rdimo.github.io/CheatAway/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/857962898718720030/Rdimos_Github.png" alt="Rdimo's Github"/></a>
   
 ```js
-npm install a-life.
+npm install a-life
 ```
 
 <img src="https://komarev.com/ghpvc/?username=rdimo&label=Profile%20Views&color=008042&style=flat" alt="Profile Views"></a>
@@ -9,7 +9,7 @@ npm install a-life.
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Rdimo" alt="Profile Forks"></a>
 <a href="https://rdimo.github.io/CheatAway/" target="_blank"> <img src="https://discordapp.com/api/guilds/850313477121507338/widget.png?style=shield" alt="shield.png"></a>
 
-- ✅ Latest open source project [Hazard-Token-Grabber](https://github.com/Rdimo/Hazard-Token-Grabber)
+- ✅ Latest open source project [Webcam-recorder](https://github.com/Rdimo/Webcam-recorder)
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&show_icons=true&locale=en&layout=compact" alt="rdimo" /> </p>
 - 📬 If you need help or want to reach me add **Rdimo#6969 on discord**
 
