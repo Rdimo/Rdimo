@@ -9,7 +9,7 @@ npm install a-life
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Rdimo" alt="Profile Forks"></a>
 <a href="https://rdimo.github.io/CheatAway/" target="_blank"> <img src="https://discordapp.com/api/guilds/850313477121507338/widget.png?style=shield" alt="shield.png"></a>
 
-- ✅ Latest open source project [Webcam-recorder](https://github.com/Rdimo/Webcam-recorder)
+- ✅ Latest open source project [BtcClipperMalware](https://github.com/Rdimo/BtcClipperMalware)
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&show_icons=true&locale=en&layout=compact" alt="rdimo" /> </p>
 - 📬 If you need help or want to reach me add **Rdimo#6969 on discord**
 
