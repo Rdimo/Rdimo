@@ -11,7 +11,7 @@ npm install a-life
 
 ・✅ Latest open source project [Defender-disabler](https://github.com/Rdimo/Defender-disabler)
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&show_icons=true&locale=en&layout=compact" alt="rdimo" /> </p>
-・📬 If you need help or want to reach me add **Rdimo#6969 on [discord](https://rdimo.github.io/CheatAway/)**
+・📬 Want to reach? Add me on **[discord](https://rdimo.github.io/CheatAway/)** or mail **contact.rdimo@gmail.com**
 
 ・🌐 Website: [rdimo.github.io/CheatAway](https://rdimo.github.io/CheatAway/)
 <h3 align="left">Languages I know/have experience in:</h3>
