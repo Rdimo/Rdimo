@@ -9,9 +9,9 @@ npm install a-life
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Rdimo" alt="Profile Forks"></a>
 <a href="https://rdimo.github.io/CheatAway/" target="_blank"> <img src="https://discordapp.com/api/guilds/864857288584724500/widget.png?style=shield" alt="shield.png"></a>
 
-✅・**Latest open source project [GenBot](https://github.com/Rdimo/GenBot)**
+✔・**Latest open source project [GenBot](https://github.com/Rdimo/GenBot)**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&show_icons=true&locale=en&layout=compact" alt="rdimo" /> </p>
-📬・**Want to reach? Add me on [discord](https://rdimo.github.io/CheatAway/) or mail contact.rdimo@gmail.com**
+📩・**Want to reach? Add me on [discord](https://rdimo.github.io/CheatAway/) or mail contact.rdimo@gmail.com**
 
 🌐・**Website: [rdimo.github.io/CheatAway](https://rdimo.github.io/CheatAway/)**
 <h3 align="left">Languages I know/have experience in:</h3>
