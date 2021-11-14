@@ -10,7 +10,7 @@ npm install a-life
 
 ✔️・**Latest open source project [DiscordRAT](https://github.com/Rdimo/DiscordRAT)**
 
-📩・**Want to reach? Add Rdimo#2789 on [discord](https://rdimo.github.io/CheatAway) or mail contact.rdimo@gmail.com**
+📩・**Want to reach? Add Rdimo#6969 on [discord](https://rdimo.github.io/CheatAway) or mail contact.rdimo@gmail.com**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&show_icons=true&locale=en&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="rdimo" /> </p>
 🌐・**Website: [rdimo.github.io/CheatAway](https://rdimo.github.io/CheatAway)**
 <h3 style="font-family:verdana" align="left">Languages I know/have experience in:</h3>
