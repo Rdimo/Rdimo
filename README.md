@@ -10,7 +10,7 @@ npm install a-life
 
 ✔️・**Latest open source project [Discord Email Spammer Exploit](https://github.com/Rdimo/Discord-email-spammer-exploit)**
 
-📩・**Want to reach? Add Rdimo#6969 on [discord](https://Cheataway.com) or mail contact.rdimo@gmail.com**
+📩・**Want to reach? Add Rdimo#9835 on [discord](https://Cheataway.com) or mail contact.rdimo@gmail.com**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&show_icons=true&locale=en&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="rdimo" /> </p>
 🌐・**Website: [https://Cheataway.com](https://Cheataway.com)**
 <h3 style="font-family:verdana" align="left">Languages I know/have experience in:</h3>
