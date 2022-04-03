@@ -1,6 +1,6 @@
 <a href="https://Cheataway.com" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/857962898718720030/Rdimos_Github.png" alt="Rdimo's Github"/></a>
-```js
-npm install a-life
+```py
+pip install bitches
 ```
 
 <img src="https://komarev.com/ghpvc/?username=rdimo&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
