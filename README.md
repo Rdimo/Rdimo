@@ -1,5 +1,5 @@
 <a href="https://Cheataway.com" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/857962898718720030/Rdimos_Github.png" alt="Rdimo's Github"/></a>
-```py
+```sh-session
 pip install bitches
 ```
 
