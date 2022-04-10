@@ -10,7 +10,7 @@ pip install bitches
 
 ✔️・**Latest open source project [Discord-Injection](https://github.com/Rdimo/Discord-Injection)**
 
-📩・**Want to reach? Add Rdimo#6969 on [discord](https://Cheataway.com) or mail contact.rdimo@gmail.com**
+📩・**Want to reach? Add Rdimo#6968 on [discord](https://Cheataway.com) or mail contact.rdimo@gmail.com**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="rdimo" /> </p>
 🌐・**Website: [https://Cheataway.com](https://Cheataway.com)**
 
