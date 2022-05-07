@@ -16,6 +16,7 @@ jobs:
         with:
           github_user_name: Rdimo
           svg_out_path: dist/github-contribution-grid-snake.svg
+          empty_color: "rgba(10,10,10,0.05)"
           snake_color: "#999999"
       - run: git status
       - name: Push changes
