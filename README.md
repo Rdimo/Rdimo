@@ -1,4 +1,5 @@
 <a href="https://Cheataway.com" target="_blank"> <img src="https://cdn.discordapp.com/attachments/853347983639052318/857962898718720030/Rdimos_Github.png" alt="Rdimo's Github"/></a>
+
 ```sh-session
 pip install bitches
 ```
@@ -15,4 +16,4 @@ pip install bitches
 🌐・**Website: [https://Cheataway.com](https://Cheataway.com)**
 
 <a href="https://Cheataway.com" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/956976561234513990.png"/></a>
-<a href="https://Cheataway.com" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+<a href="https://Cheataway.com" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/main/snake.svg" alt="sneke"></a>
