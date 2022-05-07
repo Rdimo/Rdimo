@@ -16,4 +16,4 @@ pip install bitches
 🌐・**Website: [https://Cheataway.com](https://Cheataway.com)**
 
 <a href="https://Cheataway.com" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/956976561234513990.png"/></a>
-<a href="https://Cheataway.com" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/main/snake.svg" alt="sneke"></a>
+<a href="https://Cheataway.com" target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/sneke.svg" alt="sneke"></a>
