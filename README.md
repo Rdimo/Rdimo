@@ -11,7 +11,7 @@ pip install bitches
 
 ✔️・**Latest open source project [PyExtractor](https://github.com/Rdimo/PyExtractor)**
 
-📩・**Want to reach? Add Rdimo#6968 on [discord](https://Cheataway.com/invite) or mail [contact.rdimo@gmail.com](mailto:contact.rdimo@gmail.com)**
+📩・**Want to reach? Add Rdimo#6969 on [discord](https://Cheataway.com/invite) or mail [contact.rdimo@gmail.com](mailto:contact.rdimo@gmail.com)**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="rdimo" /> </p>
 🌐・**Website: [https://Cheataway.com](https://Cheataway.com)**
 
